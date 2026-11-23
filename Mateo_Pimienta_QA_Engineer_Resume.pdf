@@ -1,0 +1,52 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >> endobj
+4 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> endobj
+6 0 obj << /Length 3563 >> stream
+BT
+/F2 18 Tf 1 0 0 1 48 752.0 Tm (MATEO PIMIENTA) Tj
+/F1 10.5 Tf 1 0 0 1 48 726.4 Tm (QA Engineer | Functional, Regression & API Testing | AI Product Quality) Tj
+/F1 8.5 Tf 1 0 0 1 48 711.5 Tm (Bogota, Colombia \\(Remote LATAM\\)  |  pimimatius@gmail.com  |  linkedin.com/in/mateo-pimienta  |  github.com/MrMoon1725) Tj
+/F2 11 Tf 1 0 0 1 48 691.1 Tm (PROFESSIONAL SUMMARY) Tj
+/F1 9.5 Tf 1 0 0 1 48 675.4 Tm (QA Engineer and Software Engineering student focused on the reliability of AI-powered products. Experienced designing) Tj
+/F1 9.5 Tf 1 0 0 1 48 662.0 Tm (and executing functional, regression, smoke, exploratory, API \\(Postman/Pytest\\), SQL \\(MySQL\\), and E2E automation) Tj
+/F1 9.5 Tf 1 0 0 1 48 648.5 Tm (suites \\(Playwright, Selenium, Cypress\\) in Agile/Scrum teams. Background in Psychology & Psychometrics for edge-case) Tj
+/F1 9.5 Tf 1 0 0 1 48 635.0 Tm (analysis and LLM output evaluation.) Tj
+/F2 11 Tf 1 0 0 1 48 613.1 Tm (EXPERIENCE) Tj
+/F2 10 Tf 1 0 0 1 48 597.5 Tm (QA Engineer - AI Products  |  Acteris  \\(Dec 2024 - Oct 2026 | Bogota, Colombia\\)) Tj
+/F1 9 Tf 1 0 0 1 48 583.3 Tm (- Designed and executed functional, regression, smoke, and exploratory test suites each sprint for AI-powered features.) Tj
+/F1 9 Tf 1 0 0 1 48 570.5 Tm (- Tracked and documented defects in Jira with reproduction steps and severity analysis across Agile/Scrum cycles.) Tj
+/F1 9 Tf 1 0 0 1 48 557.7 Tm (- Performed REST API testing \\(Postman\\), SQL data validation \\(MySQL\\), and UI verification for consistent UX.) Tj
+/F1 9 Tf 1 0 0 1 48 544.9 Tm (- Supported test automation initiatives using Playwright, Selenium, and Cypress alongside AI/LLM output evaluation.) Tj
+/F2 11 Tf 1 0 0 1 48 523.7 Tm (FEATURED QA AUTOMATION PROJECTS \\(github.com/MrMoon1725\\)) Tj
+/F1 9 Tf 1 0 0 1 48 508.1 Tm (- playwright-ecommerce-pom: E2E E-Commerce suite with Playwright, TypeScript, Page Object Model & GitHub Actions CI.) Tj
+/F1 9 Tf 1 0 0 1 48 495.3 Tm (- ai-llm-qa-evaluation: AI/LLM Quality Evaluation suite \\(Python, Pytest, JSON Schema, psychometric & hallucination checks\\).) Tj
+/F1 9 Tf 1 0 0 1 48 482.6 Tm (- api-automation-pytest: REST API automation in Python using Pytest, Requests, and Pydantic contract validation.) Tj
+/F1 9 Tf 1 0 0 1 48 469.8 Tm (- sql-qa-data-validation: MySQL Docker Compose anomaly detection suite \\(duplicates, orphans, mismatches\\) in CI.) Tj
+/F1 9 Tf 1 0 0 1 48 457.0 Tm (- performance-testing-jmeter: Apache JMeter Load, Stress, and Spike suite with SLA assertions and HTML dashboards.) Tj
+/F1 9 Tf 1 0 0 1 48 444.2 Tm (- qa-portfolio: Test Plans, Documented Test Cases, BDD/Gherkin scenarios, Bug Reports & Postman/Newman CI.) Tj
+/F2 11 Tf 1 0 0 1 48 423.0 Tm (CORE TECHNICAL SKILLS) Tj
+/F1 9 Tf 1 0 0 1 48 407.4 Tm (Automation & E2E: Playwright, Selenium, Cypress, Page Object Model \\(POM\\), BDD / Gherkin) Tj
+/F1 9 Tf 1 0 0 1 48 394.6 Tm (API, Data & Perf: Postman, Newman CI, Pytest, Pydantic, JMeter, SQL, MySQL, PL/SQL) Tj
+/F1 9 Tf 1 0 0 1 48 381.9 Tm (Tools & Languages: CI/CD, GitHub Actions, Docker, Jira, Azure DevOps, TestRail, Python, JavaScript, TypeScript, Java) Tj
+/F2 11 Tf 1 0 0 1 48 360.7 Tm (EDUCATION & CERTIFICATIONS) Tj
+/F1 9 Tf 1 0 0 1 48 345.1 Tm (- B.Sc. Software Engineering - Corporacion Universitaria Iberoamericana \\(2023 - 2027\\)) Tj
+/F1 9 Tf 1 0 0 1 48 332.3 Tm (- Database Construction with MySQL - SENA \\(Certified\\)  |  Basic Programming - Platzi) Tj
+/F1 9 Tf 1 0 0 1 48 319.5 Tm (- Professional Psychologist - Unisanitas  |  Psychometrist - TECH Technological University) Tj
+ET
+endstream endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer << /Size 7 /Root 1 0 R >>
+startxref
+4011
+%%EOF
